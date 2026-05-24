@@ -79,6 +79,9 @@ Use version `0.9.11_x86_dev+`: [link](https://sourceforge.net/projects/desmume/f
 ### BizHawk
 Use latest release: [link](https://github.com/TASEmulators/BizHawk/releases)
 
+## Notes
+Be sure to start the game first and only then load the script, regardless of the emulator or game you’re using
+
 ## Notes for mGBA scripts
 * Be sure to enlarge enough the lua window to avoid text flickering or emulation lagging
 * Every time you need to save or load a state, hold `Shift` + `(n)`/`(n)` (ex. `Shift` + `1` to save a state in slot 1 or `1` to load the state in slot 1) with game unpaused
