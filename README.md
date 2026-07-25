@@ -64,7 +64,7 @@ Join [Pokemon RNG](https://www.pokemonrng.com) or [Devon Studios](https://devons
 Use latest development build: [link](https://mgba.io/downloads.html#desktop-os-1)
 
 ### Dolphin
-Use this build which supports lua core: [link](https://github.com/Real96/Dolphin-Lua-Core/releases)
+Use this build which supports lua scripting: [link](https://github.com/Real96/dolphin/releases)
 
 ### DeSmuMe
 Use version `0.9.11_x86_dev+`: [link](https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win32-dev.zip/download)
